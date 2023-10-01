@@ -10,7 +10,7 @@ function Fields() {
         <div className="w-2/3">
           <p className="font-semibold text-6xl mb-5">Development</p>
           <p>
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Incidunt,
+            Lorem ipsum dolor sit amet Hell o consectetur adipisicing elit. Incidunt,
             architecto asperiores dicta saepe totam quas laboriosam voluptates
             facilis ut numquam, vel beatae odit blanditiis ullam qui, cum
             quibusdam atque iure?
